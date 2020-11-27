@@ -6,5 +6,5 @@
 I am a Computer Science and Software Engineering Undergraduate, passionate about technology & programming. I am a fast learner, very ambitious, good at searching and finding solutions to different problems.
 
 <p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=gramanicu&show_icons=true alt=Elangovan />
+	<img src=https://github-readme-stats.vercel.app/api?username=gramanicu&show_icons=true alt=Grama />
 </p>
