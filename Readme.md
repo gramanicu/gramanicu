@@ -8,6 +8,15 @@ I am a Computer Science and Software Engineering Undergraduate, passionate about
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gramanicu&count_private=true&show_icons=true&theme=radical" alt="Github Stats"/>
 </p>
+<!--
+This doesn't actually reflect skills, but keep it for later
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gramanicu&layout=compact&theme=radical" alt="Coding Stats"/>
 </p>
+-->
+
+<!--
+No repo to actually brag about here
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gramanicu&repo=SmartPot&theme=radical)](https://github.com/gramanicu/SmartPot)
+-->
+
