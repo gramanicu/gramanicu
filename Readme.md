@@ -6,7 +6,7 @@
 I am a Computer Science and Software Engineering Undergraduate, passionate about technology & programming. I am a fast learner, very ambitious, good at searching and finding solutions to different problems.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gramanicu&count_private=true&show_icons=true&theme=radical" alt="Github Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gramanicu&count_private=true&show_icons=true&theme=radical&hide=stars,contribs" alt="Github Stats"/>
 </p>
 <!--
 This doesn't actually reflect skills, but keep it for later
