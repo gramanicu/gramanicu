@@ -1,9 +1,9 @@
 <h1 align="center">Grama Nicolae</h1>
 
 <p align="center">
-  <a href="https://github.com/gramanicu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.22.0/icons/github.svg" alt="GitHub" height="20" width="20" /></a>
+  <a href="https://github.com/gramanicu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/github.svg" alt="GitHub" height="20" width="20" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/nicolae-grama-437181200/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.22.0/icons/linkedin.svg" alt="LinkedIn" height="20" width="20" /></a>
+  <a href="https://www.linkedin.com/in/nicolae-grama-437181200/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="LinkedIn" height="20" width="20" /></a>
 </p>
 
 <p align="center">
