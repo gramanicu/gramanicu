@@ -1,22 +1,15 @@
-<p align="center"> <h1 align="center"> Grama Nicolae </h1> </p>
-<p align="center">
-<a href="https://github.com/gramanicu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="Grama Nicolae" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/nicolae-grama-437181200/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Grama Nicolae" height="20" width="20" /></a>
-
-I am a Computer Science and Software Engineering Undergraduate, passionate about technology & programming. I am a fast learner, very ambitious, good at searching and finding solutions to different problems.
+<h1 align="center">Grama Nicolae</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gramanicu&count_private=true&show_icons=true&theme=radical&hide=stars,contribs" alt="Github Stats"/>
+  <a href="https://github.com/gramanicu" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.22.0/icons/github.svg" alt="GitHub" height="20" width="20" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/nicolae-grama-437181200/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.22.0/icons/linkedin.svg" alt="LinkedIn" height="20" width="20" /></a>
 </p>
-<!--
-This doesn't actually reflect skills, but keep it for later
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gramanicu&layout=compact&theme=radical" alt="Coding Stats"/>
+  I am a dedicated Computer Science and Software Engineer with a profound passion for technology and programming. I'm proud of my ability to swiftly tackle challenges and believe in the importance of a positive team environment for effective collaboration. My love for technology and software design reflects my commitment to continuous learning and making a difference in this ever-evolving field.
 </p>
--->
 
-<!--
-No repo to actually brag about here
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gramanicu&repo=SmartPot&theme=radical)](https://github.com/gramanicu/SmartPot)
--->
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gramanicu&include_all_commits=true&show_icons=true&theme=radical&hide=stars,contribs" alt="Github Stats"/>
+</p>
